@@ -5,5 +5,5 @@ https://raw.githubusercontent.com/HaiDaRxRoNiN/German-Verbs-Constellation/refs/h
 wait 20 seconds  
 enjoy  
 
-All thanks to Andreas Göbel for providing a nice source data  
+All thanks to Andreas Göbel for providing a wonderful source data  
 https://www.verblisten.de  
